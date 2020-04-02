@@ -5,6 +5,8 @@
 #include<stdlib.h>
 #include<time.h>
 
+// Gitlearnings
+
 void add();  //FUNCTIONS
 void list();
 void edit();  //GLOBALLY DECLARED FUNCTIONS N VARIABLE
