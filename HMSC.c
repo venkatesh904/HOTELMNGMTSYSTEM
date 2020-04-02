@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-// Gitlearnings
+// Gitlearnings sanhosh
 
 void add();  //FUNCTIONS
 void list();
